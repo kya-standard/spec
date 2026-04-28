@@ -99,7 +99,7 @@ Version 1.0.1. See CHAIN-SPEC.md for full cryptographic detail.
 ## 11. Reference Implementation
 
 https://github.com/Rankigi-Inc/governed-agent-core
-Public verification: https://verify.rankigi.com
+Public verification: https://rankigi.com/verify
 
 ## 12. Contributing
 
